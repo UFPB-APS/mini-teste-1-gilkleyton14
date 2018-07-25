@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=vendedor
+comment0.target=void\ setVendedor(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ geVendedor()
+comment2.params=comissao
+comment2.target=void\ setComissao(double)
+comment3.params=
+comment3.target=double\ getcomissao()
+numComments=4

@@ -4,6 +4,8 @@ public class Venda {
     private ItemVenda[] itens = new ItemVenda[10];
     private String estadoDoCliente;
     private double total;
+  
+    
     
     public ItemVenda[] getItens() {
         return this.itens;
@@ -36,10 +38,6 @@ public class Venda {
     public void setTotal(double total) {
         this.total = total;
     }
-    
-    
-    
-    
     
     
     

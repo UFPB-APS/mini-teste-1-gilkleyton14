@@ -4,6 +4,7 @@ public class ItemVenda {
     private Produto produto;
     private double precoVenda;
     
+    
     protected double getSubTotal() {
         return this.getQuantidade() * this.getPrecoVenda();
     }
@@ -32,5 +33,6 @@ public class ItemVenda {
     public Produto getProduto() {
         return produto;
     }
+    
     
 }
